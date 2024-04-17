@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tg_bot_appointments/static/css/main.e95dd886.css",
+    "main.js": "/tg_bot_appointments/static/js/main.ba336d67.js",
+    "index.html": "/tg_bot_appointments/index.html",
+    "main.e95dd886.css.map": "/tg_bot_appointments/static/css/main.e95dd886.css.map",
+    "main.ba336d67.js.map": "/tg_bot_appointments/static/js/main.ba336d67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e95dd886.css",
+    "static/js/main.ba336d67.js"
+  ]
+}
