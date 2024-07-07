@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/tg_bot_appointments/static/css/main.a651d3b6.css",
-    "main.js": "/tg_bot_appointments/static/js/main.4849a78b.js",
+    "main.css": "/tg_bot_appointments/static/css/main.1d6e34ac.css",
+    "main.js": "/tg_bot_appointments/static/js/main.0c25f52d.js",
     "static/media/SF-Pro-Rounded-Semibold.otf": "/tg_bot_appointments/static/media/SF-Pro-Rounded-Semibold.cb1eeb24a6b1124f56ab.otf",
     "static/media/SF-Pro-Display-Semibold.otf": "/tg_bot_appointments/static/media/SF-Pro-Display-Semibold.6099dd43659d57ccaab5.otf",
     "static/media/SF-Pro-Display-Bold.otf": "/tg_bot_appointments/static/media/SF-Pro-Display-Bold.0edd1bada269d5887ee1.otf",
     "static/media/SF-Pro-Display-Medium.otf": "/tg_bot_appointments/static/media/SF-Pro-Display-Medium.d662b8cc0de816bd8db7.otf",
     "static/media/SF-Pro-Display-Regular.otf": "/tg_bot_appointments/static/media/SF-Pro-Display-Regular.10e03531b907510de61f.otf",
     "static/media/SF-Mono-Regular.otf": "/tg_bot_appointments/static/media/SF-Mono-Regular.dd15a7c876111223f6ca.otf",
+    "static/media/RecordStatusSelect.svg": "/tg_bot_appointments/static/media/RecordStatusSelect.0f3f51e992f42d134ab9f34e4fb5778c.svg",
     "static/media/Comment.svg": "/tg_bot_appointments/static/media/Comment.5ce5d388dfaffa1eb49ead9e6592b801.svg",
     "index.html": "/tg_bot_appointments/index.html",
     "static/media/AddRecord.svg": "/tg_bot_appointments/static/media/AddRecord.335e44e75e1fc28e63a93b712d1a3e07.svg",
     "static/media/IconForBtnScrollLeft.svg": "/tg_bot_appointments/static/media/IconForBtnScrollLeft.b9f6f2fcb216cec57333a0fa603f31ea.svg",
     "static/media/IconForBtnScrollRight.svg": "/tg_bot_appointments/static/media/IconForBtnScrollRight.5640cfbe8f766963f8623cbf2eb5b8db.svg",
-    "main.a651d3b6.css.map": "/tg_bot_appointments/static/css/main.a651d3b6.css.map",
-    "main.4849a78b.js.map": "/tg_bot_appointments/static/js/main.4849a78b.js.map"
+    "main.1d6e34ac.css.map": "/tg_bot_appointments/static/css/main.1d6e34ac.css.map",
+    "main.0c25f52d.js.map": "/tg_bot_appointments/static/js/main.0c25f52d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a651d3b6.css",
-    "static/js/main.4849a78b.js"
+    "static/css/main.1d6e34ac.css",
+    "static/js/main.0c25f52d.js"
   ]
 }
